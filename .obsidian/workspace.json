@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "6dc14762cf239af0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0a0ca455ecc2080",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adfd8e6944fd8c4f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "D:\\reenactor",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "environment": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "win32Backend": "conpty"
+                  },
+                  "profileSourceId": "win32IntegratedDefault",
+                  "serial": null,
+                  "userTitle": ""
+                }
+              },
+              "pinned": true,
+              "icon": "terminal:tab-bezel",
+              "title": "cmd"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bbcde7f964971cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6e09e4ad2ef39eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24b58c3bd8ad34a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6f2a26745d40f140",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "a054c9aad7f0c30f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "3e861047eead8056",
+    "type": "split",
+    "children": [
+      {
+        "id": "efe54c95455e7e3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f46e3a3bf2a360a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "82 занятие. Культура и искусство.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "07c293fde0a59dcf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "82 занятие. Культура и искусство.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "7bd4beb554609a82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "256ce56f16cb1a51",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "3ee524520e7132ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "64f15e4763af9868",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "adfd8e6944fd8c4f",
+  "lastOpenFiles": [
+    "Clippings/84 семинар. Приоритетность и основы её формирования.md",
+    "README.md",
+    "wiki/sources/2026-10-23-seminar-83.md",
+    "wiki/concepts/Псевдоцелостность.md",
+    "wiki/concepts/Знаковое-прочтение.md",
+    "wiki/concepts/Иерархичность.md",
+    "wiki/concepts/Полубог.md",
+    "wiki/concepts/Ситуационные-события.md",
+    "wiki/concepts/Противник.md",
+    "wiki/concepts/Два-пути-к-гармонии.md",
+    "Clippings/Реконструктор Сознания 84 семинар. Приоритетность и основы её формирования.md",
+    "raw/sources/83 занятие. Два пути к гармонии..md",
+    "wiki/concepts/Культура.md",
+    "raw/sources/82 занятие. Культура и искусство.md",
+    "wiki/concepts/Узколобие.md",
+    "wiki/concepts/Клуб-избранных.md",
+    "wiki/concepts/Четыре-этапа-переподчинения-сознания.md",
+    "wiki/concepts/Ложная-опора.md",
+    "wiki/concepts/Уязвимость.md",
+    "wiki/concepts/Поклонение.md",
+    "wiki/concepts/Культ.md",
+    "wiki/sources/2026-10-22-seminar-82.md",
+    "wiki/concepts/Логическая-оболочка.md",
+    "wiki/concepts/Принцип-ключ-замок.md",
+    "wiki/concepts/Индивидуальная-нейросеть.md",
+    "wiki/concepts/Явные-и-неявные-цели.md",
+    "temp-list.txt",
+    "temp-lint.txt",
+    "temp-concepts.txt",
+    "diag-2.txt",
+    "diag-final.txt",
+    "diag-inbound.txt",
+    "diag-links.txt",
+    "broken-all-detail.txt",
+    "broken-s64.txt",
+    "broken-links.txt",
+    "Без названия.canvas",
+    "Заветное желание.canvas",
+    "Clippings/вложенные файлы/Pasted image 20260623103831.png",
+    "Clippings/вложенные файлы/схемаЗнаний.png"
+  ]
+}

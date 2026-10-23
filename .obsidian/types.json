@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "самоощущение": "number",
+    "желание что-то...": "checkbox",
+    "подтягивание": "checkbox",
+    "бег на улице": "checkbox",
+    "домашний марафон": "checkbox",
+    "лекция": "multitext",
+    "упраж на стопы": "checkbox"
+  }
+}
