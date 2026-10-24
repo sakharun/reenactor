@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/85 семинар. Сознание - очевидные процессы совмещения знаний.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "85 семинар. Сознание - очевидные процессы совмещения знаний"
+              "title": "README"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.8333435058594,
-    "collapsed": true
+    "width": 360.8333435058594
   },
   "right": {
     "id": "3e861047eead8056",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/85 семинар. Сознание - очевидные процессы совмещения знаний.md",
+                "file": "README.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -199,8 +198,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed156f86a0984568",
+  "active": "24b58c3bd8ad34a1",
   "lastOpenFiles": [
+    "Clippings/85 семинар. Сознание - очевидные процессы совмещения знаний.md",
     "wiki/concepts/Теряющие-выгоду.md",
     "wiki/concepts/Профессиональная-деформация-сознания.md",
     "wiki/concepts/Кольцо-цивилизации.md",
@@ -209,7 +209,6 @@
     "wiki/concepts/Псевдосферическая-логика.md",
     "wiki/concepts/Системная-приоритетность.md",
     "wiki/sources/2026-10-24-seminar-84.md",
-    "Clippings/85 семинар. Сознание - очевидные процессы совмещения знаний.md",
     "raw/sources/84 семинар. Приоритетность и основы её формирования.md",
     "Clippings/84 семинар. Приоритетность и основы её формирования — копия.md",
     "Clippings/Реконструктор Сознания 69 семинар. Интерес как вектор траектории.md",
