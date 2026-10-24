@@ -4,50 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a0a0ca455ecc2080",
+        "id": "be90ec1a11d47e3f",
         "type": "tabs",
         "children": [
           {
-            "id": "adfd8e6944fd8c4f",
+            "id": "f1cc52b9b5f00310",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "terminal:terminal",
+              "type": "markdown",
               "state": {
-                "terminal:terminal": {
-                  "cwd": "D:\\reenactor",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "environment": [],
-                    "executable": "C:\\Windows\\System32\\cmd.exe",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "win32Backend": "conpty"
-                  },
-                  "profileSourceId": "win32IntegratedDefault",
-                  "serial": null,
-                  "userTitle": ""
-                }
+                "file": "Clippings/84 семинар. Приоритетность и основы её формирования.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "terminal:tab-bezel",
-              "title": "cmd"
+              "icon": "lucide-file",
+              "title": "84 семинар. Приоритетность и основы её формирования"
             }
           }
         ]
@@ -109,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "3e861047eead8056",
@@ -187,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Clippings/84 семинар. Приоритетность и основы её формирования.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -226,8 +199,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adfd8e6944fd8c4f",
+  "active": "f1cc52b9b5f00310",
   "lastOpenFiles": [
+    "Текстовый документ.txt",
     "Clippings/84 семинар. Приоритетность и основы её формирования.md",
     "README.md",
     "wiki/sources/2026-10-23-seminar-83.md",
@@ -253,7 +227,6 @@
     "wiki/concepts/Логическая-оболочка.md",
     "wiki/concepts/Принцип-ключ-замок.md",
     "wiki/concepts/Индивидуальная-нейросеть.md",
-    "wiki/concepts/Явные-и-неявные-цели.md",
     "temp-list.txt",
     "temp-lint.txt",
     "temp-concepts.txt",
