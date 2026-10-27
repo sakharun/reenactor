@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8483edfc4747e5d3",
+        "id": "4e3bff571e945110",
         "type": "tabs",
         "children": [
           {
-            "id": "ef82fcffb88e6268",
+            "id": "92ee2038973ef06e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/86 семинар. Сознание - очевидные процессы совмещения знаний. Часть 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "86 семинар. Сознание - очевидные процессы совмещения знаний. Часть 2"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -158,7 +154,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/86 семинар. Сознание - очевидные процессы совмещения знаний. Часть 2.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -182,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,8 +194,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef82fcffb88e6268",
+  "active": "92ee2038973ef06e",
   "lastOpenFiles": [
+    "tmp-ingest86-rootidx.js",
+    "wiki/lint-reports/2026-10-27-lint-seminar-86.md",
+    "tmp-ingest86-addedlinks.js",
+    "tmp-ingest86-quotes.js",
+    "tmp-ingest86-lint.js",
+    "wiki/sources/2026-10-27-seminar-86.md",
+    "tmp-ingest86-apply5.js",
+    "tmp-ingest86-data5.js",
+    "tmp-ingest86-data4.js",
+    "tmp-ingest86-data3.js",
+    "tmp-ingest86-data2.js",
+    "tmp-ingest86-apply.js",
+    "tmp-ingest86-data1.js",
+    "wiki/concepts/Измена.md",
+    "wiki/concepts/Наследие-богов.md",
+    "wiki/concepts/Сеятели.md",
+    "wiki/concepts/Гомеопатия.md",
+    "wiki/concepts/Ущербность.md",
+    "wiki/concepts/Устройство-вторичного-контакта.md",
+    "wiki/concepts/Устройство-первичного-контакта.md",
+    "wiki/concepts/Оболочка-предназначения.md",
+    "wiki/concepts/Проекция-качества.md",
+    "wiki/concepts/Сознание-тела.md",
+    "wiki/concepts/Сознание-у-всего.md",
+    "wiki/concepts/Взаимодействие.md",
+    "raw/sources/86 семинар. Сознание - очевидные процессы совмещения знаний. Часть 2.md",
+    "вложенные файлы/ПравдаОбманКривда.excalidraw.md",
+    "вложенные файлы/Drawing 2026-07-03 05.53.23.excalidraw.md",
+    "вложенные файлы/схемаЗнаний.png",
+    "вложенные файлы/Pasted image 20260623103831.png",
     "wiki/concepts/Оценка-информации.md",
     "wiki/concepts/Виртуальное-пространство.md",
     "wiki/concepts/Отчёт-сознания.md",
@@ -208,36 +234,8 @@
     "wiki/concepts/Микроконфликт.md",
     "wiki/concepts/Сомнение.md",
     "wiki/sources/2026-10-25-seminar-85.md",
-    "raw/sources/85 семинар. Сознание - очевидные процессы совмещения знаний.md",
-    "README.md",
-    "wiki/concepts/Теряющие-выгоду.md",
-    "wiki/concepts/Профессиональная-деформация-сознания.md",
-    "wiki/concepts/Кольцо-цивилизации.md",
-    "wiki/concepts/Лестница-приоритетов.md",
-    "wiki/concepts/Источники-поляризации.md",
-    "wiki/concepts/Псевдосферическая-логика.md",
-    "wiki/concepts/Системная-приоритетность.md",
-    "wiki/sources/2026-10-24-seminar-84.md",
-    "raw/sources/84 семинар. Приоритетность и основы её формирования.md",
-    "Clippings/84 семинар. Приоритетность и основы её формирования — копия.md",
-    "Clippings/Реконструктор Сознания 69 семинар. Интерес как вектор траектории.md",
-    "Clippings/68 семинар. Род, воспитатели, воспитание, работа с родом.md",
     "Clippings/вложенные файлы/схемаЗнаний.png",
     "Clippings/вложенные файлы/Pasted image 20260623103831.png",
-    "Clippings/вложенные файлы",
-    "Clippings/Реконструктор Сознания 98 семинар. Нейросети в природе.md",
-    "Clippings/Реконструктор Сознания 97 семинар. Как и когда формируется принадлежность к роду и национальности.md",
-    "Clippings/Реконструктор Сознания 96 семинар. Этапы выполнения предназначения после процесса воспитания.md",
-    "Clippings/Реконструктор Сознания 95 семинар. Воспитание. Часть 3.md",
-    "Clippings",
-    "Текстовый документ.txt",
-    "temp-list.txt",
-    "temp-lint.txt",
-    "temp-concepts.txt",
-    "diag-2.txt",
-    "diag-final.txt",
-    "diag-inbound.txt",
-    "diag-links.txt",
     "Без названия.canvas",
     "Заветное желание.canvas"
   ]
