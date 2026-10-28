@@ -4,20 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "4e3bff571e945110",
+        "id": "98ae45f6b1c44137",
         "type": "tabs",
         "children": [
           {
-            "id": "92ee2038973ef06e",
+            "id": "06d3b3a3f0d51359",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/88 семинар. Вода. Как мы отображаем системное проявление качеств воды.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "88 семинар. Вода. Как мы отображаем системное проявление качеств воды"
+            }
+          },
+          {
+            "id": "d255f6a87df9f998",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "D:\\reenactor",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "environment": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "win32Backend": "conpty"
+                  },
+                  "profileSourceId": "win32IntegratedDefault",
+                  "serial": null,
+                  "userTitle": ""
+                }
+              },
+              "pinned": true,
+              "icon": "terminal:tab-bezel",
+              "title": "OpenCode"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 322.8333435058594,
+    "collapsed": true
   },
   "right": {
     "id": "3e861047eead8056",
@@ -177,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +242,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92ee2038973ef06e",
+  "active": "d255f6a87df9f998",
   "lastOpenFiles": [
+    "Clippings/88 семинар. Вода. Как мы отображаем системное проявление качеств воды.md",
+    "wiki/lint-reports/2026-10-28-lint-seminar-87.md",
+    "wiki/concepts/Проект.md",
+    "wiki/concepts/Рабочий.md",
+    "wiki/concepts/Преображённый-грешник.md",
+    "wiki/concepts/Однополярный-и-многополярный-мир.md",
+    "wiki/concepts/Воровство-душ.md",
+    "wiki/concepts/Оболочка-рода.md",
+    "wiki/concepts/Зона-активации.md",
+    "wiki/concepts/Здоровье-работников.md",
+    "wiki/concepts/Кольцо-отображений.md",
+    "wiki/concepts/Кризис-менеджер.md",
+    "wiki/concepts/Транзитёр.md",
+    "wiki/concepts/Текучка.md",
+    "wiki/concepts/Встраивание.md",
+    "wiki/concepts/Основные-потенциалы.md",
+    "wiki/concepts/Знание-об-устройстве-системы.md",
+    "wiki/concepts/Диалог-с-системой.md",
+    "wiki/sources/2026-10-28-seminar-87.md",
+    "Clippings/Реконструктор Сознания 88 семинар. Вода. Как мы отображаем системное проявление качеств воды.md",
+    "raw/sources/87 семинар. Основные потенциалы и работа с ними.md",
     "tmp-ingest86-rootidx.js",
     "wiki/lint-reports/2026-10-27-lint-seminar-86.md",
     "tmp-ingest86-addedlinks.js",
@@ -208,32 +277,11 @@
     "tmp-ingest86-data3.js",
     "tmp-ingest86-data2.js",
     "tmp-ingest86-apply.js",
-    "tmp-ingest86-data1.js",
     "wiki/concepts/Измена.md",
     "wiki/concepts/Наследие-богов.md",
     "wiki/concepts/Сеятели.md",
-    "wiki/concepts/Гомеопатия.md",
-    "wiki/concepts/Ущербность.md",
-    "wiki/concepts/Устройство-вторичного-контакта.md",
-    "wiki/concepts/Устройство-первичного-контакта.md",
-    "wiki/concepts/Оболочка-предназначения.md",
-    "wiki/concepts/Проекция-качества.md",
-    "wiki/concepts/Сознание-тела.md",
-    "wiki/concepts/Сознание-у-всего.md",
-    "wiki/concepts/Взаимодействие.md",
-    "raw/sources/86 семинар. Сознание - очевидные процессы совмещения знаний. Часть 2.md",
-    "вложенные файлы/ПравдаОбманКривда.excalidraw.md",
-    "вложенные файлы/Drawing 2026-07-03 05.53.23.excalidraw.md",
     "вложенные файлы/схемаЗнаний.png",
     "вложенные файлы/Pasted image 20260623103831.png",
-    "wiki/concepts/Оценка-информации.md",
-    "wiki/concepts/Виртуальное-пространство.md",
-    "wiki/concepts/Отчёт-сознания.md",
-    "wiki/concepts/Заморозка-конфликта.md",
-    "wiki/concepts/Иллюзии-совмещения.md",
-    "wiki/concepts/Микроконфликт.md",
-    "wiki/concepts/Сомнение.md",
-    "wiki/sources/2026-10-25-seminar-85.md",
     "Clippings/вложенные файлы/схемаЗнаний.png",
     "Clippings/вложенные файлы/Pasted image 20260623103831.png",
     "Без названия.canvas",
