@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98ae45f6b1c44137",
+        "id": "479dbaea379625d5",
         "type": "tabs",
         "children": [
           {
-            "id": "06d3b3a3f0d51359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/88 семинар. Вода. Как мы отображаем системное проявление качеств воды.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "88 семинар. Вода. Как мы отображаем системное проявление качеств воды"
-            }
-          },
-          {
-            "id": "d255f6a87df9f998",
+            "id": "29c3418b87076daf",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -61,11 +47,24 @@
               },
               "pinned": true,
               "icon": "terminal:tab-bezel",
-              "title": "OpenCode"
+              "title": "OC | Интеграция семинара 89 в хранилище"
+            }
+          },
+          {
+            "id": "baaec7ab210e1dae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/89 семинар. Религия истоковая и привнесённая.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "89 семинар. Религия истоковая и привнесённая"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8333435058594,
-    "collapsed": true
+    "width": 322.8333435058594
   },
   "right": {
     "id": "3e861047eead8056",
@@ -226,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,9 +241,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d255f6a87df9f998",
+  "active": "29c3418b87076daf",
   "lastOpenFiles": [
-    "Clippings/88 семинар. Вода. Как мы отображаем системное проявление качеств воды.md",
+    "Clippings/89 семинар. Религия истоковая и привнесённая.md",
+    "wiki/concepts/Выведение-закона.md",
+    "wiki/concepts/Формула-знания-и-доверия.md",
+    "wiki/concepts/Кредит-как-перехват-потенциала.md",
+    "wiki/concepts/Сопряжение.md",
+    "wiki/concepts/Правь-и-явь.md",
+    "wiki/concepts/Институт-традиций.md",
+    "wiki/concepts/Слепое-доверие.md",
+    "wiki/concepts/Предатель.md",
+    "wiki/concepts/Открытая-ячейка-образа.md",
+    "wiki/concepts/Платформа-рода.md",
+    "wiki/concepts/Привнесённая-религия.md",
+    "wiki/concepts/Истоковая-религия.md",
+    "wiki/sources/2026-10-29-seminar-89.md",
+    "raw/sources/88 семинар. Вода. Как мы отображаем системное проявление качеств воды.md",
     "wiki/lint-reports/2026-10-28-lint-seminar-87.md",
     "wiki/concepts/Проект.md",
     "wiki/concepts/Рабочий.md",
@@ -256,30 +269,16 @@
     "wiki/concepts/Здоровье-работников.md",
     "wiki/concepts/Кольцо-отображений.md",
     "wiki/concepts/Кризис-менеджер.md",
-    "wiki/concepts/Транзитёр.md",
-    "wiki/concepts/Текучка.md",
-    "wiki/concepts/Встраивание.md",
-    "wiki/concepts/Основные-потенциалы.md",
-    "wiki/concepts/Знание-об-устройстве-системы.md",
-    "wiki/concepts/Диалог-с-системой.md",
-    "wiki/sources/2026-10-28-seminar-87.md",
-    "Clippings/Реконструктор Сознания 88 семинар. Вода. Как мы отображаем системное проявление качеств воды.md",
-    "raw/sources/87 семинар. Основные потенциалы и работа с ними.md",
     "tmp-ingest86-rootidx.js",
-    "wiki/lint-reports/2026-10-27-lint-seminar-86.md",
     "tmp-ingest86-addedlinks.js",
     "tmp-ingest86-quotes.js",
     "tmp-ingest86-lint.js",
-    "wiki/sources/2026-10-27-seminar-86.md",
     "tmp-ingest86-apply5.js",
     "tmp-ingest86-data5.js",
     "tmp-ingest86-data4.js",
     "tmp-ingest86-data3.js",
     "tmp-ingest86-data2.js",
     "tmp-ingest86-apply.js",
-    "wiki/concepts/Измена.md",
-    "wiki/concepts/Наследие-богов.md",
-    "wiki/concepts/Сеятели.md",
     "вложенные файлы/схемаЗнаний.png",
     "вложенные файлы/Pasted image 20260623103831.png",
     "Clippings/вложенные файлы/схемаЗнаний.png",
