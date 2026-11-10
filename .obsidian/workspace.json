@@ -4,17 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "9fa2236f80abd6b5",
+        "id": "730ee66f363fab81",
         "type": "tabs",
         "children": [
           {
-            "id": "e4643ded10a91e08",
+            "id": "58d09690de988f6f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "D:\\reenactor",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "environment": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "win32Backend": "conpty"
+                  },
+                  "profileSourceId": "win32IntegratedDefault",
+                  "serial": null,
+                  "userTitle": ""
+                }
+              },
+              "pinned": true,
+              "icon": "terminal:tab-bezel",
+              "title": "OC | Интеграция семинара 98 в хранилище"
             }
           }
         ]
@@ -184,8 +217,18 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "e4643ded10a91e08",
+  "active": "58d09690de988f6f",
   "lastOpenFiles": [
+    "wiki/concepts/Импульс-к-действию.md",
+    "wiki/concepts/Дубликат-личности.md",
+    "wiki/concepts/Двойники.md",
+    "wiki/concepts/Создание-сверхсознания.md",
+    "wiki/concepts/Отображение-нейросети-в-пространстве.md",
+    "wiki/concepts/Четыре-принципа-построения-нейросети.md",
+    "wiki/concepts/Личность-сообщества.md",
+    "wiki/concepts/База-сознания.md",
+    "wiki/sources/2026-11-10-seminar-98.md",
+    "raw/sources/98 семинар. Нейросети в природе.md",
     "wiki/concepts/Раскол-нейросети-страны.md",
     "wiki/concepts/ЭКО-дети.md",
     "wiki/concepts/Ремесленник.md",
@@ -202,16 +245,6 @@
     "wiki/concepts/Взаимовыгодный-обмен.md",
     "wiki/concepts/Ось-знаний.md",
     "wiki/concepts/Ситуативный-комфорт.md",
-    "wiki/concepts/Пожилой.md",
-    "wiki/concepts/Взрослый.md",
-    "wiki/concepts/Этапы-выполнения-предназначения.md",
-    "wiki/concepts/Подросток.md",
-    "raw/sources/96 семинар. Этапы выполнения предназначения после процесса воспитания.md",
-    "wiki/lint-reports/2026-11-07-lint-seminar-95.md",
-    "wiki/concepts/Прививание-обычаев.md",
-    "wiki/concepts/Легализация-качества.md",
-    "wiki/concepts/Достаточный-потенциал.md",
-    "wiki/concepts/Коридор-траектории.md",
     "tmp-ingest86-rootidx.js",
     "tmp-ingest86-addedlinks.js",
     "tmp-ingest86-quotes.js",
