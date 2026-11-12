@@ -4,50 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "730ee66f363fab81",
+        "id": "2e80d12239645058",
         "type": "tabs",
         "children": [
           {
-            "id": "58d09690de988f6f",
+            "id": "40051ab3c3ddff30",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "terminal:terminal",
+              "type": "markdown",
               "state": {
-                "terminal:terminal": {
-                  "cwd": "D:\\reenactor",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "environment": [],
-                    "executable": "C:\\Windows\\System32\\cmd.exe",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "win32Backend": "conpty"
-                  },
-                  "profileSourceId": "win32IntegratedDefault",
-                  "serial": null,
-                  "userTitle": ""
-                }
+                "file": "Clippings/102 семинар. Правитель должен служить народу или народ правителю.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "terminal:tab-bezel",
-              "title": "OC | Интеграция семинара 98 в хранилище"
+              "icon": "lucide-file",
+              "title": "102 семинар. Правитель должен служить народу или народ правителю"
             }
           }
         ]
@@ -109,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8333435058594,
+    "width": 458.16668701171875,
     "collapsed": true
   },
   "right": {
@@ -188,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Clippings/102 семинар. Правитель должен служить народу или народ правителю.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -201,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,34 +188,35 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "58d09690de988f6f",
+  "active": "40051ab3c3ddff30",
   "lastOpenFiles": [
-    "wiki/concepts/Импульс-к-действию.md",
-    "wiki/concepts/Дубликат-личности.md",
-    "wiki/concepts/Двойники.md",
-    "wiki/concepts/Создание-сверхсознания.md",
-    "wiki/concepts/Отображение-нейросети-в-пространстве.md",
-    "wiki/concepts/Четыре-принципа-построения-нейросети.md",
-    "wiki/concepts/Личность-сообщества.md",
-    "wiki/concepts/База-сознания.md",
-    "wiki/sources/2026-11-10-seminar-98.md",
-    "raw/sources/98 семинар. Нейросети в природе.md",
-    "wiki/concepts/Раскол-нейросети-страны.md",
-    "wiki/concepts/ЭКО-дети.md",
-    "wiki/concepts/Ремесленник.md",
-    "wiki/concepts/Телегония.md",
-    "wiki/concepts/Национальность.md",
-    "wiki/concepts/Пять-элементов-принадлежности.md",
-    "wiki/concepts/Фамилия.md",
-    "wiki/concepts/Отчество.md",
-    "wiki/concepts/Принадлежность-к-роду-и-национальности.md",
-    "wiki/sources/2026-11-09-seminar-97.md",
-    "raw/sources/97 семинар. Как и когда формируется принадлежность к роду и национальности.md",
-    "wiki/sources/2026-11-08-seminar-96.md",
-    "wiki/concepts/Зона-помощи.md",
-    "wiki/concepts/Взаимовыгодный-обмен.md",
-    "wiki/concepts/Ось-знаний.md",
-    "wiki/concepts/Ситуативный-комфорт.md",
+    "Clippings/102 семинар. Правитель должен служить народу или народ правителю.md",
+    "wiki/concepts/Гендерная-система.md",
+    "wiki/concepts/Связка-проектант-реализатор.md",
+    "Clippings/103 семинар. Системник о тонких телах и чакрах.md",
+    "wiki/concepts/Договорённости.md",
+    "wiki/concepts/Жертвенность-берегини.md",
+    "wiki/concepts/Жреческие-проявления.md",
+    "wiki/concepts/Женская-ниша.md",
+    "Clippings/Реконструктор Сознания 103 семинар. Системник о тонких телах и чакрах.md",
+    "wiki/entities/Богиня.md",
+    "wiki/entities/Жрица.md",
+    "wiki/concepts/Берег-и-иное.md",
+    "wiki/concepts/Берегиня.md",
+    "Clippings/Реконструктор Сознания 102 семинар. Правитель должен служить народу или народ правителю.md",
+    "wiki/sources/2026-11-12-seminar-101.md",
+    "raw/sources/101 семинар. Женская роль - Берегиня.md",
+    "Без названия.base",
+    "wiki/concepts/Русофобия.md",
+    "wiki/concepts/Немцы.md",
+    "wiki/concepts/Ось-цивилизации.md",
+    "wiki/concepts/Религия-по-крови-и-по-идее.md",
+    "wiki/concepts/Язычник.md",
+    "wiki/concepts/Жить-и-существовать.md",
+    "wiki/concepts/Ребёнок.md",
+    "wiki/concepts/Жизнерекущий-жрец.md",
+    "wiki/sources/2026-11-10-seminar-100.md",
+    "raw/sources/100 семинар. Славянское жречество как ось цивилизации.md",
     "tmp-ingest86-rootidx.js",
     "tmp-ingest86-addedlinks.js",
     "tmp-ingest86-quotes.js",
@@ -254,7 +226,6 @@
     "tmp-ingest86-data4.js",
     "tmp-ingest86-data3.js",
     "tmp-ingest86-data2.js",
-    "tmp-ingest86-apply.js",
     "вложенные файлы/схемаЗнаний.png",
     "вложенные файлы/Pasted image 20260623103831.png",
     "Clippings/вложенные файлы/схемаЗнаний.png",
