@@ -4,21 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "cef019a1fd3ecf5d",
+        "id": "eacf7ce046c3c78b",
         "type": "tabs",
         "children": [
           {
-            "id": "511bb55ac703773e",
+            "id": "37d803eb5c89883b",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "terminal:terminal",
               "state": {
-                "file": "Clippings/Реконструктор Сознания 104 семинар. Конфликт.md",
-                "mode": "source",
-                "source": false
+                "terminal:terminal": {
+                  "cwd": "D:\\reenactor",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "environment": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "win32Backend": "conpty"
+                  },
+                  "profileSourceId": "win32IntegratedDefault",
+                  "serial": null,
+                  "userTitle": ""
+                }
               },
-              "icon": "lucide-file",
-              "title": "Реконструктор Сознания 104 семинар. Конфликт"
+              "pinned": true,
+              "icon": "terminal:tab-bezel",
+              "title": "OC | Интеграция семинара 104"
             }
           }
         ]
@@ -159,7 +188,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/Реконструктор Сознания 104 семинар. Конфликт.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -173,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,9 +217,21 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "511bb55ac703773e",
+  "active": "37d803eb5c89883b",
   "lastOpenFiles": [
-    "Clippings/Реконструктор Сознания 104 семинар. Конфликт.md",
+    "wiki/concepts/Внешняя-стабильность-через-внутреннее-изменение.md",
+    "wiki/concepts/Выбор-по-делам.md",
+    "wiki/concepts/Элита.md",
+    "wiki/concepts/Системное-наблюдение.md",
+    "wiki/concepts/Аппарат-поляризации.md",
+    "wiki/concepts/Творение-тлена.md",
+    "wiki/concepts/Удар-изнутри.md",
+    "wiki/concepts/Насаждение-предназначения.md",
+    "wiki/concepts/Иллюзия-свободы.md",
+    "wiki/concepts/Десять-элементов-конфликта.md",
+    "wiki/concepts/Конфликт.md",
+    "wiki/sources/2026-11-15-seminar-104.md",
+    "raw/sources/Реконструктор Сознания 104 семинар. Конфликт.md",
     "Clippings/Реконструктор Сознания 114 семинар. О карме под другим углом.md",
     "Clippings/Реконструктор Сознания 108 семинар. Почему произошла бандеризация украинского народа.md",
     "Clippings/Реконструктор Сознания 107 семинар. Запад. Истоки и реальность.md",
@@ -205,18 +246,6 @@
     "raw/sources/103 семинар. Системник о тонких телах и чакрах.md",
     "raw/sources/32_a.md",
     "raw/sources/Текстовый документ.txt",
-    "wiki/concepts/США.md",
-    "wiki/concepts/Заполнение-структуры-материалом.md",
-    "wiki/concepts/Вложенные-стадии-развития.md",
-    "wiki/concepts/Нравственность-через-эгоизм.md",
-    "wiki/concepts/Опухоль-как-нейросеть-паразит.md",
-    "wiki/concepts/Родовой-спектр.md",
-    "wiki/concepts/Смертная-казнь.md",
-    "wiki/concepts/Нервная-система-организма.md",
-    "wiki/concepts/Снятие-потенциалов.md",
-    "wiki/concepts/Диалог-с-родом.md",
-    "wiki/concepts/Народ.md",
-    "wiki/concepts/Низшее-служит-высшему.md",
     "Без названия.base",
     "tmp-ingest86-rootidx.js",
     "tmp-ingest86-addedlinks.js",
