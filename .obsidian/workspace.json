@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eacf7ce046c3c78b",
+        "id": "0f69f36031e56c38",
         "type": "tabs",
         "children": [
           {
-            "id": "37d803eb5c89883b",
+            "id": "0b8a780a7d96ae6c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -47,7 +47,7 @@
               },
               "pinned": true,
               "icon": "terminal:tab-bezel",
-              "title": "OC | Интеграция семинара 104"
+              "title": "OC | Интеграция семинара 105 в хранилище"
             }
           }
         ]
@@ -217,8 +217,21 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "37d803eb5c89883b",
+  "active": "0b8a780a7d96ae6c",
   "lastOpenFiles": [
+    "wiki/concepts/Профессионализм.md",
+    "wiki/concepts/Смысл-защиты-страны.md",
+    "wiki/concepts/Размытость-предательства.md",
+    "wiki/concepts/Резонирование-через-эгоизм.md",
+    "wiki/concepts/Элитные-войска.md",
+    "wiki/concepts/Элита-в-кольцах.md",
+    "wiki/concepts/Биолаборатория.md",
+    "wiki/concepts/Иностранное-НКО.md",
+    "wiki/concepts/Контрэлита.md",
+    "wiki/concepts/Признаки-элиты.md",
+    "wiki/concepts/Называться-и-быть.md",
+    "wiki/sources/2026-11-16-seminar-105.md",
+    "raw/sources/105 семинар. Элита. Называться и быть.md",
     "wiki/concepts/Внешняя-стабильность-через-внутреннее-изменение.md",
     "wiki/concepts/Выбор-по-делам.md",
     "wiki/concepts/Элита.md",
@@ -232,19 +245,6 @@
     "wiki/concepts/Конфликт.md",
     "wiki/sources/2026-11-15-seminar-104.md",
     "raw/sources/Реконструктор Сознания 104 семинар. Конфликт.md",
-    "Clippings/Реконструктор Сознания 114 семинар. О карме под другим углом.md",
-    "Clippings/Реконструктор Сознания 108 семинар. Почему произошла бандеризация украинского народа.md",
-    "Clippings/Реконструктор Сознания 107 семинар. Запад. Истоки и реальность.md",
-    "wiki/lint-reports/2026-11-15-lint-seminar-103.md",
-    "wiki/concepts/Нейрон.md",
-    "wiki/concepts/Искусственное-ясновидение.md",
-    "wiki/concepts/Спектральное-знание.md",
-    "wiki/concepts/Астральное-тело.md",
-    "wiki/concepts/Поле.md",
-    "wiki/concepts/Четыре-тела.md",
-    "wiki/sources/2026-11-15-seminar-103.md",
-    "raw/sources/103 семинар. Системник о тонких телах и чакрах.md",
-    "raw/sources/32_a.md",
     "raw/sources/Текстовый документ.txt",
     "Без названия.base",
     "tmp-ingest86-rootidx.js",
