@@ -4,50 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0f69f36031e56c38",
+        "id": "c6d707b1b1a161ac",
         "type": "tabs",
         "children": [
           {
-            "id": "0b8a780a7d96ae6c",
+            "id": "a5af35d12baeeadf",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "D:\\reenactor",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "environment": [],
-                    "executable": "C:\\Windows\\System32\\cmd.exe",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "win32Backend": "conpty"
-                  },
-                  "profileSourceId": "win32IntegratedDefault",
-                  "serial": null,
-                  "userTitle": ""
-                }
-              },
-              "pinned": true,
-              "icon": "terminal:tab-bezel",
-              "title": "OC | Интеграция семинара 105 в хранилище"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -217,8 +184,20 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "0b8a780a7d96ae6c",
+  "active": "a5af35d12baeeadf",
   "lastOpenFiles": [
+    "wiki/concepts/Осознанное-действие.md",
+    "wiki/concepts/Идейные-и-купленные.md",
+    "wiki/concepts/Друг.md",
+    "wiki/concepts/Закон-бумеранга.md",
+    "wiki/concepts/Целостность-несущие.md",
+    "wiki/concepts/Равное-величие.md",
+    "wiki/concepts/Этапы-формирования-организма-цивилизации.md",
+    "wiki/concepts/Доминант.md",
+    "wiki/concepts/Заявка-и-подтверждение-суверенитета.md",
+    "wiki/concepts/Суверенитет.md",
+    "wiki/sources/2026-11-17-seminar-106.md",
+    "raw/sources/106 семинар. Суверенитет как первый этап формирования организма Цивилизация.md",
     "wiki/concepts/Профессионализм.md",
     "wiki/concepts/Смысл-защиты-страны.md",
     "wiki/concepts/Размытость-предательства.md",
@@ -233,18 +212,6 @@
     "wiki/sources/2026-11-16-seminar-105.md",
     "raw/sources/105 семинар. Элита. Называться и быть.md",
     "wiki/concepts/Внешняя-стабильность-через-внутреннее-изменение.md",
-    "wiki/concepts/Выбор-по-делам.md",
-    "wiki/concepts/Элита.md",
-    "wiki/concepts/Системное-наблюдение.md",
-    "wiki/concepts/Аппарат-поляризации.md",
-    "wiki/concepts/Творение-тлена.md",
-    "wiki/concepts/Удар-изнутри.md",
-    "wiki/concepts/Насаждение-предназначения.md",
-    "wiki/concepts/Иллюзия-свободы.md",
-    "wiki/concepts/Десять-элементов-конфликта.md",
-    "wiki/concepts/Конфликт.md",
-    "wiki/sources/2026-11-15-seminar-104.md",
-    "raw/sources/Реконструктор Сознания 104 семинар. Конфликт.md",
     "raw/sources/Текстовый документ.txt",
     "Без названия.base",
     "tmp-ingest86-rootidx.js",
