@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6d707b1b1a161ac",
+        "id": "31563f6c4b10ca39",
         "type": "tabs",
         "children": [
           {
-            "id": "a5af35d12baeeadf",
+            "id": "144848924ad7844d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/108 семинар. Почему произошла бандеризация украинского народа.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "108 семинар. Почему произошла бандеризация украинского народа"
             }
           }
         ]
@@ -155,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Clippings/108 семинар. Почему произошла бандеризация украинского народа.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -168,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +188,22 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "a5af35d12baeeadf",
+  "active": "144848924ad7844d",
   "lastOpenFiles": [
+    "wiki/sources/2026-11-18-seminar-107.md",
+    "wiki/concepts/Фрагментарная-экономика.md",
+    "wiki/concepts/Золотые-эпохи-стран.md",
+    "Clippings/108 семинар. Почему произошла бандеризация украинского народа.md",
+    "wiki/concepts/Возвращение-в-целое.md",
+    "wiki/concepts/Индивидуальность-через-отход-от-траектории.md",
+    "wiki/concepts/Монастырь.md",
+    "wiki/concepts/Клуб-и-коалиция.md",
+    "wiki/concepts/Отягощённые-знания.md",
+    "wiki/concepts/Падение-за-границу-целого.md",
+    "wiki/concepts/Запад.md",
+    "Clippings/Реконструктор Сознания 108 семинар. Почему произошла бандеризация украинского народа.md",
+    "raw/sources/107 семинар. Запад. Истоки и реальность.md",
+    "Clippings/Реконструктор Сознания 107 семинар. Запад. Истоки и реальность.md",
     "wiki/concepts/Осознанное-действие.md",
     "wiki/concepts/Идейные-и-купленные.md",
     "wiki/concepts/Друг.md",
@@ -198,20 +216,6 @@
     "wiki/concepts/Суверенитет.md",
     "wiki/sources/2026-11-17-seminar-106.md",
     "raw/sources/106 семинар. Суверенитет как первый этап формирования организма Цивилизация.md",
-    "wiki/concepts/Профессионализм.md",
-    "wiki/concepts/Смысл-защиты-страны.md",
-    "wiki/concepts/Размытость-предательства.md",
-    "wiki/concepts/Резонирование-через-эгоизм.md",
-    "wiki/concepts/Элитные-войска.md",
-    "wiki/concepts/Элита-в-кольцах.md",
-    "wiki/concepts/Биолаборатория.md",
-    "wiki/concepts/Иностранное-НКО.md",
-    "wiki/concepts/Контрэлита.md",
-    "wiki/concepts/Признаки-элиты.md",
-    "wiki/concepts/Называться-и-быть.md",
-    "wiki/sources/2026-11-16-seminar-105.md",
-    "raw/sources/105 семинар. Элита. Называться и быть.md",
-    "wiki/concepts/Внешняя-стабильность-через-внутреннее-изменение.md",
     "raw/sources/Текстовый документ.txt",
     "Без названия.base",
     "tmp-ingest86-rootidx.js",
